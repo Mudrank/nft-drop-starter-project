@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect } from 'react';;
 import './App.css';
 import twitterLogo from './assets/twitter-logo.svg';
 
