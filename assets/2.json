@@ -1,0 +1,19 @@
+{
+  "name": "Nori",
+  "symbol": "",
+  "image": "2.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "JB7Z3Z4zWyuSKdPWePevG9nKD7ZX8Cn5xKddiqR7XVc",
+        "share": 100
+      }
+    ]
+  }
+}

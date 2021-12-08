@@ -1,9 +1,10 @@
 .App {
   height: 100vh;
-  background-color: rgb(20, 20, 20);
+  background-color: #141414;
   overflow: scroll;
   text-align: center;
   overflow: hidden;
+  font-family: 'Space Grotesk', sans-serif;
 }
 
 .container {
@@ -62,6 +63,7 @@
   background: -webkit-linear-gradient(left, #ff8867, #ff52ff);
   background-size: 200% 200%;
   animation: gradient-animation 4s ease infinite;
+  font-family: 'Space Grotesk', sans-serif;
 }
 
 .mint-button {
@@ -69,6 +71,7 @@
   background-size: 200% 200%;
   animation: gradient-animation 4s ease infinite;
   margin-left: 10px;
+  font-family: 'Space Grotesk', sans-serif;
 }
 
 .footer-container {
